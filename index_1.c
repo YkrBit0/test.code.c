@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-
 /*
 int main()
 {
@@ -21,7 +20,6 @@ int main()
 	return 0;
 }
 */
-
 /*
 int main()
 {
@@ -108,7 +106,7 @@ int main()
 }
 */
 
-//Ã°ÅİÅÅĞò---½µĞò
+//å†’æ³¡æ’åº---é™åº
 /*
 int main()
 {
@@ -143,7 +141,7 @@ int main()
 }
 */
 
-//Ã°ÅİÅÅĞò--- ½µĞò
+//å†’æ³¡æ’åº--- é™åº
 
 void set_rank(int arr[],int sz)
 {
@@ -166,7 +164,7 @@ void set_rank(int arr[],int sz)
 	}
 }
 
-//Ã°ÅİÅÅĞò---ÉıĞò
+//å†’æ³¡æ’åº---å‡åº
 void set_sort(int arr[], int sz)
 {
 	int i = 0;
@@ -188,7 +186,7 @@ void set_sort(int arr[], int sz)
 	}
 
 }
-/*
+
 int main()
 {
 	int arr[10] = { 1,5,3,2,6,4,7,8,9,10 };
@@ -203,13 +201,6 @@ int main()
 	}
 	return 0;
 }
-
-*/
-
-
-
-
-
 /*
 int main()
 {
@@ -226,7 +217,6 @@ int main()
 	
 	return 0;
 }
-
 int test(int arr[], int sz)
 {
 	int a = 0;
@@ -236,25 +226,3 @@ int test(int arr[], int sz)
 	}
 }
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
